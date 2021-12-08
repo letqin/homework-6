@@ -8,7 +8,7 @@ To get an accurate assessment if the weather is suitable for travel (or to plan 
 
 ## Technologies used
 
-
+[Open Weather Map](https://openweathermap.org/)
 
 ## Important Links
 
