@@ -1,15 +1,35 @@
-# Weather Dashboard
+  # Rainy Day 
+  Weather application for travel or at home use. 
 
-This is a weather dashboard designed to allow you to see the weather in any city you wish to view the weather in multiple cities. These cities are not random but selected by the user. Searching for an city on the globe will show you the current and future weather in that city and your past searches will be saved in local storage for later use.
+  ![Rainy Day](./develop/assets/rainyday.png)
 
-## What Information Does This Application Show?
+  ### Table of Contents
+  - [Technologies Used](#tech)
+  - [Installation](#installation) 
+  - [Usage](#usage) 
+  - [Contributing](#contributing) 
+  - [Tests](#tests)
+  - [Contact Me](#contact-me)
+  
+---
+  ### <a id="tech"></a> Technologies Used
+  
+  - JavaScript
+  - CSS
+  - HTML
+  - NodeJS
 
-To get an accurate assessment if the weather is suitable for travel (or to plan what to bring) you need to consider all of the weather conditions you are going to encounter on your trip. This dashboard will display the temperature, weather conditions, humidity, UV index, and wind speed. With all of these factors in mind, you can plan your trip to be as comfortable as possible.
+  ### <a id="installation"></a> Installation 
+  - `This application is hosted by GitHub Pages and is accessible to anyone with an internet connection.`
 
-## Technologies used
+Go to the included link to visit the site. Enter in a city of your choosing and see what the weather will be like.
+  ### <a id="tests"></a> Tests
+  Coming soon...
+  ### <a id="contact-me"></a> Contact Me
+  If you have any questions. You can reach me at [my Github](https://www.github.com/letqin) or you can email me at: letqin@gmail.com.
+  
+  ### <a id="links"></a> Links
 
-[Open Weather Map](https://openweathermap.org/)
-
-## Important Links
-
-[Repo](https://github.com/letqin/homework-6)
+  - [Repo](https://github.com/letqin/homework-6)
+  - [Deployed App](https://letqin.github.io/homework-6/)
+ 
