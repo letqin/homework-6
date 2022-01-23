@@ -32,5 +32,5 @@ Go to the included link to visit the site. Enter in a city of your choosing and 
   ### <a id="links"></a> Links
 
   - [Repo](https://github.com/letqin/homework-6)
-  - [Deployed App](https://letqin.github.io/homework-6/)
+  - [Deployed App](https://letqin.github.io/homework-6/index.html)
  
